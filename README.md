@@ -14,7 +14,9 @@ otherwise it costs aboout $150 USD.
 |Weapon motor brushless (3100 kV)|https://itgresa.com/product/bx1306-brushless-motor-outrunner-2300kv/|1       |$13.50|$13.50 |12g         |12g         |
 |Brushless motor ESC (35A)       |https://itgresa.com/product/readytosky-35a-esc/                     |1       |$13.50|$13.50 |6g          |6g          |
 |Driver brushed ESC              |https://itgresa.com/product/repeat-robotics-ant-dual-esc/           |1       |$15.00|$15.00 |7g          |7g          |
+|Pololu small wheels             |https://itgresa.com/product/pololu-small-wheels/                    |1       |$4.45|$4.45   |6.2g        |6.2g        |
 |Transmitter +Reciever           |https://itgresa.com/product/t6a-radio-transmitter/                  |1       |$57.00|$57.00 |8g          |8g          |
-|                                |                                                                    |        |      |       |Total weight|78g         |
+|Titanium Blade                  |https://itgresa.com/product/275-in-asymmetrical-titanium-blade/     |1       |$18.99|$18.99 |21.8g       |21.8g       |
+|                                |                                                                    |        |      |       |Total weight|105g       |
 |Shipping                        |                                                                    |        |      |$15.00 |            |            |
-|Total Cost                      |                                                                    |        |      |$149.10|            |            |
+|Total Cost                      |                                                                    |        |      |$172.54|            |            |
