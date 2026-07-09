@@ -5,7 +5,7 @@
 Today I spent time researching parts, and deciding what sort of robot I wanted to build. Looking at some local competitions, I decided that fairyweight was probably best for a 3d printed bot, so the constraint for this is that it has to be less
 than 150g. 
 
-I started out with coming up with a general idea for a bot, and I decided on aa lateral spinning bot that has top-down symmetry. I am planning on using a symmetrical blade with a slanted edge. I also
+I started out with coming up with a general idea for a bot, and I decided on a lateral spinning bot that has top-down symmetry. I am planning on using a symmetrical blade with a slanted edge. I also
 made a rough sketch of the general idea of the bot, but I am now thinking of adding wheel armor.
 
 ![](imgs/sketch.png)
@@ -15,3 +15,6 @@ Next I had too decide on parts. After a lot of research (reddit was very useful 
 ![](imgs/BOM.png)
 
 **tldr: selected components; made a BOM, and calculated weight**
+
+## Day 2
+Today I rally got stared with the CAD. For some reason most of the parts didn't have a had model, as I had to reconstruct them from the engineering drawings. I also looked for cheaper contorllers, but ultimately I ended up using the ones from yesterday. However, I did find some good wheels, and will continue with the CAD tomorrow. I got most of the chasis done, and only have the lid and blade left.
