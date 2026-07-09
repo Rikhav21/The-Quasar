@@ -5,6 +5,15 @@
 This uses a 22 gram titanium assymetric blade, so it should have a a large bite instead of a sawing effect.
 ## CAD
 You can access the CAD in [this](https://cad.onshape.com/documents/3d55290af9ce6babeaef3911/w/1bdcf87fcaebbf56540309ae/e/9293975650e765cd10d42e9f?renderMode=0&uiState=6a4efc69f4e375455e2fadfa) link. This has how all of the partss fit together, and also the parts that you will need to print. 
+![](imgs/CAD1)
+![](imgs/CAD2)
+
+## Electronics
+Both of the ESCs arre connected to the lipo. 
+The dual ESC is connected to the 2 N20s.
+Two rerciever channels go to the drive ESC, while one goes to the wepon ESC.
+The reciever is powered by the driver ESC- BEC.
+The weapon motor is connected to the weapon ESC.
 
 
 
