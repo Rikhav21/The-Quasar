@@ -1,11 +1,15 @@
 # The Quasar
-**A 3d printed fairyweight robot**
+**A fairyweight combat robot**
+
+## Weapon
+This uses a 22 gram titanium assymetric blade, so it should have a a large bite instead of a sawing effect.
+## CAD
+You can access the CAD in [this](https://cad.onshape.com/documents/3d55290af9ce6babeaef3911/w/1bdcf87fcaebbf56540309ae/e/9293975650e765cd10d42e9f?renderMode=0&uiState=6a4efc69f4e375455e2fadfa) link. This has how all of the partss fit together, and also the parts that you will need to print. 
 
 
 
 ## Parts
-I ordered everytthing from ne site in order to save on shipping, but most of these parts could also be sourced from other places. The most expensive part by far is the controller and reciever, so it you had thooses already, this would be a sub 100 dollar build, but 
-otherwise it costs aboout $150 USD.
+I ordered everytthing from ne site in order to save on shipping, but most of these parts could also be sourced from other places.The most expensive part is the remote, which you could reuses if you already have a drone controller, otherwise it costs aboout $170 USD.
 
 |Name                            |Link                                                                |Quantity|Price |Total  |Weight      |Total Weight|
 |--------------------------------|--------------------------------------------------------------------|--------|------|-------|------------|------------|
